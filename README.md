@@ -1,6 +1,7 @@
 
-# someFunctions 2 and 3 i costumiced.1,4,5,6,7,8 i puzzle together by learnig.
-## Give code time to run.Often a 2'nd click might change output.<a id="up"></a>
+**Code 2 and 3 I costumiced,<a id="up"></a>**
+**1,4,5,6,7,8 I puzzle together by learnig**
+## Give code time to run.A 2'nd click might change output.
 
 ## Demo page with buttons;
 <a href="https://kaliscandinavia.github.io/javaScript-fun" target="_blank">Demo page with buttons</a>
