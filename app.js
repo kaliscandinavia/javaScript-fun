@@ -144,7 +144,7 @@ document.documentElement.style.transform="rotate(3600deg)";
             var char = str[i++];
             // Check for newline character and replace it with <br>
             if (char === '\n') {
-                textContainer.innerHTML += "<br>"; // Add a line break in HTML
+                textContainer.innerHTML += "<br><br>"; // Add a line break in HTML
             } else {
                 textContainer.innerHTML += char; // Add the character to the text
             }
