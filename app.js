@@ -122,9 +122,7 @@ document.documentElement.style.transform="rotate(3600deg)";
          }
   
  //Function:Running-warning text,then after 2 secund empty ugly grey page.
-   function go_empty() { // Change a few key variables when txt starts running.
-
-    alert("Was that smart? \nWhen finished, just reload for the start page :)");
+   function go_empty() { 
     document.body.style.backgroundColor = "black";
     h1.innerHTML = "EMPTY HARD DISK";
     h1.style.color = "white";
@@ -164,7 +162,7 @@ document.documentElement.style.transform="rotate(3600deg)";
     }
 
     // Message with newlines
-    const message = "The hard disk is empty.\nNo files are possible to recover.\nPlease install an OS before you can use this unit.\nAll copyrights reserved by:\n Fed.11/99-ADv/SACR.USA Dist. of Alabama 047/.HP International, Sacramento, California USA.";
+    const message = "The hard disk is empty.\nNo files are possible to recover.\n Please install an OS before you can use this unit.\nAll copyrights reserved by:\n Fed.11/99-ADv/SACR.USA Dist. of Alabama 047/.HP International, Sacramento, California USA.";
     printOut(message);
 }
 
