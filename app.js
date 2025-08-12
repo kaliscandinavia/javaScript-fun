@@ -162,12 +162,9 @@ document.documentElement.style.transform="rotate(3600deg)";
     }
 
     // Message with newlines
-    const message = "The hard disk is empty.\nNo files are possible to recover.\n Please install an OS before you can use this unit.\nAll copyrights reserved by:\n Fed.11/99-ADv/SACR.USA Dist. of Alabama 047/.HP International, Sacramento, California USA.";
+    const message = "The hard disk is empty.\nNo files are possible to recover.\n Please install an OS before you can use this unit.\n All copyrights reserved by:\n Fed.11/99-ADv/SACR.USA Dist of Alabama 047,\n HP International, Sacramento, California USA.";
     printOut(message);
 }
-
-
-//Function Freez is tested on Andriod phone
 
 //Function Freez is tested on Andriod phone & tablets from version 8 to 16.[ works in year 2025] 
 function  freez () {
